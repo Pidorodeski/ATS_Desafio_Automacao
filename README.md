@@ -27,4 +27,7 @@ Abaixo listada as tecnologias utilizada para o projeto
 # Bugs & Melhorias
 
 ## Documentação de Evidências de Erros e sugestões de Melhorias abaixo:
-[Evidências.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9742692/Evidencias.docx)
+
+[Documento Erros.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749164/Documento.Erros.docx)
+[Documento Melhorias.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749165/Documento.Melhorias.docx)
+
