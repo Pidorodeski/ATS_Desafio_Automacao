@@ -19,6 +19,13 @@ http://localhost:4200
 
 [Documento Melhorias.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749165/Documento.Melhorias.docx)
 
+# Teste API
+
+Realizado teste API:
+[ATS_API.postman_collection.json.zip](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749353/ATS_API.postman_collection.json.zip)
+
+
+
 # Tecnologias
 
 Abaixo listada as tecnologias utilizada para o projeto
