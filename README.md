@@ -11,6 +11,14 @@ https://github.com/KaicMelo/desafio_ats
 
 http://localhost:4200
 
+# Bugs & Melhorias
+
+## Documentação de Evidências de Erros e sugestões de Melhorias abaixo:
+
+[Documento Erros.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749164/Documento.Erros.docx)
+
+[Documento Melhorias.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749165/Documento.Melhorias.docx)
+
 # Tecnologias
 
 Abaixo listada as tecnologias utilizada para o projeto
@@ -24,10 +32,5 @@ Abaixo listada as tecnologias utilizada para o projeto
 
 ![image](https://user-images.githubusercontent.com/13930185/194782477-f555ddfa-6dd8-4d07-bc47-8a7b8305098f.png)
 
-# Bugs & Melhorias
 
-## Documentação de Evidências de Erros e sugestões de Melhorias abaixo:
-
-[Documento Erros.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749164/Documento.Erros.docx)
-[Documento Melhorias.docx](https://github.com/Pidorodeski/ATS_Desafio_Automacao/files/9749165/Documento.Melhorias.docx)
 
